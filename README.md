@@ -120,3 +120,4 @@ Capitoli usati nel corso: 1, 2 (parziale), 3, 4, 5, 6, 10
 
 *Fondazione ITS Academy Novitas 4.0 — [www.itsnovitas.it](https://www.itsnovitas.it)*
 # AI-engineering-fundamentals
+# AI-engineering-fundamentals
